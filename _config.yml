@@ -1,0 +1,28 @@
+name: dreamvillas
+favicon: null
+layout_spectrum: 0.612539975438267
+typography_spectrum: 0.167737529380247
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.24323776992969215
+  lightness: 0.39466654346324503
+  saturation: 0.6662830074783415
+  rhythmicContrast: 0.04726959299296141
+purpose: []
